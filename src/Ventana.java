@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author gaemil
+ * @author Rafa
  */
 public class Ventana extends javax.swing.JFrame {
     

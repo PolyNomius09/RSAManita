@@ -7,7 +7,7 @@ package rsamanita;
 
 /**
  *
- * @author gaemil
+ * @author Rafa
  */
 
 import java.math.BigInteger;
